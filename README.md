@@ -2,7 +2,6 @@
 
 Herkese merhaba, SistersLab’in [Toplum Gönüllüleri Vakfı](https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy proje katılımcılarından biriyim. Eğitim süreci boyunca verilen ödevleri repoda tutacağım. 
 
-----
 Bu repo içerisinde şimdilik;
 
 * ## Yıldızlar ile Şekil Oluşturma
@@ -27,7 +26,6 @@ Bu repo içerisinde şimdilik;
 * ## Taş- Kağıt-Makas Oyunu
 
 yer almaktadır.
-----
 
 
 
